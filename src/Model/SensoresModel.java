@@ -1,17 +1,20 @@
 package Model;
 //import java.io.Serializable;
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Map;
+import java.util.UUID;
 //import java.util.UUID;
 
-public class SensoresModel {
+public class SensoresModel implements Serializable {
     private String ID;
+    private static final long serialVersionUID = 1L;
     private Integer TipoSensor; //0/1 - pluviometro/estação solo
     private ArrayList<Float> Dados = new ArrayList<Float>();
     private ArrayList<Long> datas = new ArrayList<Long>();
     private Float latitude;
     private Float longitude;
-
+    private UUID myUUID;
     public void setID(String id){
         this.ID=id;
     }
@@ -35,6 +38,14 @@ public class SensoresModel {
     }
     public Float getLongitude(){
         return this.longitude;
+    }
+
+    public void setMyUUID(UUID myUUID) {
+        this.myUUID = myUUID;
+    }
+
+    public UUID getMyUUID() {
+        return myUUID;
     }
 
     public void setDados(Map<Long,Float> entrada) {

@@ -1,0 +1,576 @@
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 07:48:13 Hora Padrão de Buenos Aires 2023
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <4160>
+Thread      : spliced 9368
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1682678893.474916200
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 07:48:13 Hora Padrão de Buenos Aires 2023
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <4160>
+Thread      : spliced 9368
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1682678893.479984000
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 07:48:13 Hora Padrão de Buenos Aires 2023
+Description : Service cmsoap disabled
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <4160>
+Thread      : spliced 9368
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1682678893.480527300
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 07:48:13 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <4160>
+Thread      : spliced 9368
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682678893.481150200
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 07:48:13 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <4160>
+Thread      : ddsi2 9044
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682678893.496753600
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 07:48:13 Hora Padrão de Buenos Aires 2023
+Description : The durability service can by identified by ID: 1142401468
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <4160>
+Thread      : durability 10656
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1682678893.604826100
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 07:48:21 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <4160>
+Thread      : durability 10656
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682678901.227879300
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 07:50:40 Hora Padrão de Buenos Aires 2023
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <9692>
+Thread      : spliced 10244
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1682679040.280887200
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 07:50:40 Hora Padrão de Buenos Aires 2023
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <9692>
+Thread      : spliced 10244
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1682679040.286107600
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 07:50:40 Hora Padrão de Buenos Aires 2023
+Description : Service cmsoap disabled
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <9692>
+Thread      : spliced 10244
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1682679040.286593100
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 07:50:40 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <9692>
+Thread      : spliced 10244
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682679040.287284200
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 07:50:40 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <9692>
+Thread      : ddsi2 2732
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682679040.304391800
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 07:50:40 Hora Padrão de Buenos Aires 2023
+Description : The durability service can by identified by ID: 528435484
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <9692>
+Thread      : durability 3000
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1682679040.400701000
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 07:50:48 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <9692>
+Thread      : durability 3000
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682679048.058234800
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 08:02:45 Hora Padrão de Buenos Aires 2023
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <5164>
+Thread      : spliced 4148
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1682679765.308552300
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 08:02:45 Hora Padrão de Buenos Aires 2023
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <5164>
+Thread      : spliced 4148
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1682679765.313699100
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 08:02:45 Hora Padrão de Buenos Aires 2023
+Description : Service cmsoap disabled
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <5164>
+Thread      : spliced 4148
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1682679765.314094900
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 08:02:45 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <5164>
+Thread      : spliced 4148
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682679765.314601800
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 08:02:45 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <5164>
+Thread      : ddsi2 6156
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682679765.330535300
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 08:02:45 Hora Padrão de Buenos Aires 2023
+Description : The durability service can by identified by ID: 2087532003
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <5164>
+Thread      : durability 8028
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1682679765.432463800
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 08:02:53 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <5164>
+Thread      : durability 8028
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682679773.083172800
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 08:04:32 Hora Padrão de Buenos Aires 2023
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <10724>
+Thread      : spliced 3392
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1682679872.601700600
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 08:04:32 Hora Padrão de Buenos Aires 2023
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <10724>
+Thread      : spliced 3392
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1682679872.606951700
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 08:04:32 Hora Padrão de Buenos Aires 2023
+Description : Service cmsoap disabled
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <10724>
+Thread      : spliced 3392
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1682679872.607336300
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 08:04:32 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <10724>
+Thread      : spliced 3392
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682679872.607914800
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 08:04:32 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <10724>
+Thread      : ddsi2 8084
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682679872.625928600
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 08:04:32 Hora Padrão de Buenos Aires 2023
+Description : The durability service can by identified by ID: 568998483
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <10724>
+Thread      : durability 10848
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1682679872.732889300
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 08:04:40 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <10724>
+Thread      : durability 10848
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682679880.392355600
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:03:44 Hora Padrão de Buenos Aires 2023
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <2308>
+Thread      : spliced 11628
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1682683424.265000100
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:03:44 Hora Padrão de Buenos Aires 2023
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <2308>
+Thread      : spliced 11628
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1682683424.270055400
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:03:44 Hora Padrão de Buenos Aires 2023
+Description : Service cmsoap disabled
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <2308>
+Thread      : spliced 11628
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1682683424.270408400
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:03:44 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <2308>
+Thread      : spliced 11628
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682683424.270892600
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:03:44 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <2308>
+Thread      : ddsi2 10572
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682683424.287650800
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:03:44 Hora Padrão de Buenos Aires 2023
+Description : The durability service can by identified by ID: 444735437
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <2308>
+Thread      : durability 8396
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1682683424.391399400
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:03:52 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <2308>
+Thread      : durability 8396
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682683432.062412500
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:04:29 Hora Padrão de Buenos Aires 2023
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <2280>
+Thread      : spliced 4772
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1682683469.314843400
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:04:29 Hora Padrão de Buenos Aires 2023
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <2280>
+Thread      : spliced 4772
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1682683469.319943400
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:04:29 Hora Padrão de Buenos Aires 2023
+Description : Service cmsoap disabled
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <2280>
+Thread      : spliced 4772
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1682683469.320273100
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:04:29 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <2280>
+Thread      : spliced 4772
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682683469.320797500
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:04:29 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <2280>
+Thread      : ddsi2 5436
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682683469.337700900
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:04:29 Hora Padrão de Buenos Aires 2023
+Description : The durability service can by identified by ID: 955267442
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <2280>
+Thread      : durability 7720
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1682683469.440123700
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:04:37 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <2280>
+Thread      : durability 7720
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682683477.105988700
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:08:14 Hora Padrão de Buenos Aires 2023
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <5372>
+Thread      : spliced 11916
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1682683694.737902100
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:08:14 Hora Padrão de Buenos Aires 2023
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <5372>
+Thread      : spliced 11916
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1682683694.742967100
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:08:14 Hora Padrão de Buenos Aires 2023
+Description : Service cmsoap disabled
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <5372>
+Thread      : spliced 11916
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1682683694.743334800
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:08:14 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <5372>
+Thread      : spliced 11916
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682683694.743846500
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:08:14 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <5372>
+Thread      : ddsi2 1444
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682683694.760185600
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:08:14 Hora Padrão de Buenos Aires 2023
+Description : The durability service can by identified by ID: 2124116404
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <5372>
+Thread      : durability 10512
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1682683694.861412300
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:08:22 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <5372>
+Thread      : durability 10512
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682683702.530210200
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:14:13 Hora Padrão de Buenos Aires 2023
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <8124>
+Thread      : spliced 3132
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1682684053.625418000
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:14:13 Hora Padrão de Buenos Aires 2023
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <8124>
+Thread      : spliced 3132
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1682684053.630945600
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:14:13 Hora Padrão de Buenos Aires 2023
+Description : Service cmsoap disabled
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <8124>
+Thread      : spliced 3132
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1682684053.631456800
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:14:13 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <8124>
+Thread      : spliced 3132
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682684053.632119300
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:14:13 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <8124>
+Thread      : ddsi2 12036
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682684053.649484700
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:14:13 Hora Padrão de Buenos Aires 2023
+Description : The durability service can by identified by ID: 1132935614
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <8124>
+Thread      : durability 11752
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1682684053.758532700
+========================================================================================
+Report      : INFO
+Date        : Fri Apr 28 09:14:21 Hora Padrão de Buenos Aires 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-SSN5DJ6
+Process     : java.exe <8124>
+Thread      : durability 11752
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682684061.443602000
